@@ -1,3 +1,4 @@
+using CounterStrikeSharp.API.Modules.Admin;
 using CounterStrikeSharp.API;
 using CounterStrikeSharp.API.Core;
 using CounterStrikeSharp.API.Modules.Utils;
@@ -150,3 +151,4 @@ public class BooleVip : BasePlugin
 
     private enum VipTier { None, Recruit, Sergeant, Commander }
 }
+
